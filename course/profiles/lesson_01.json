@@ -1,0 +1,9 @@
+{
+  "lesson": 1,
+  "name": "Практическое занятие 1 Расчёт параметров обогатительной фабрики цветной металлургии",
+  "source": "course/sources/lesson_01.docx",
+  "sha256": "f0cc7b51b9f1823fc82a28ce00895b2bdd3e08fc4c30c18bfddce27cc06fff3c",
+  "paragraph_count": 400,
+  "review": "materials loaded; pedagogical calibration pending",
+  "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+}

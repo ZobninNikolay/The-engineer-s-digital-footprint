@@ -1,0 +1,9 @@
+{
+  "lesson": 2,
+  "name": "Практическое занятие 2 Расчёт параметров плавильного цеха цветной металлургии",
+  "source": "course/sources/lesson_02.docx",
+  "sha256": "4c5a56fce0fb2b207afe1f4d2a4029c81504e99efd4c4f2f39596d1227ecbe84",
+  "paragraph_count": 413,
+  "review": "materials loaded; pedagogical calibration pending",
+  "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+}

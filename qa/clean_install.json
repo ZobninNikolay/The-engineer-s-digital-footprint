@@ -1,0 +1,43 @@
+{
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "unpacked_path": "/workspace/scratch/ced1cd1a4acb/clean_test/Проверка релиза",
+  "archive_sha256": "c7fd07833b479f24c398cb60d22ec4e44f505c13b9495178c3b0193f05bc1dee",
+  "checks": [
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "test_appeal_keeps_target_version (test_release.AdditionalRegressionTests.test_appeal_keeps_target_version) ... ok\ntest_open_appeal_does_not_fall_back_to_lower_grade (test_release.AdditionalRegressionTests.test_open_appeal_does_not_fall_back_to_lower_grade) ... ok\ntest_run_utf8_and_failure_are_real (test_release.AdditionalRegressionTests.test_run_utf8_and_failure_are_real) ... ok\ntest_bad_digest_rejected (test_release.AnalysisTests.test_bad_digest_rejected) ... ok\ntest_boolean_not_level (test_release.AnalysisTests.test_boolean_not_level) ... ok\ntest_false_quote_rejected (test_release.AnalysisTests.test_false_quote_rejected) ... ok\ntest_idempotent_response (test_release.AnalysisTests.test_idempotent_response) ... ok\ntest_injected_bundle_rejected (test_release.AnalysisTests.test_injected_bundle_rejected) ... ok\ntest_no_canned_grade (test_release.AnalysisTests.test_no_canned_grade) ... ok\ntest_no_expected_labels_in_request (test_release.AnalysisTests.test_no_expected_labels_in_request) ... ok\ntest_no_student_no_level (test_release.AnalysisTests.test_no_student_no_level) ... ok\ntest_null_is_not_zero (test_release.AnalysisTests.test_null_is_not_zero) ... ok\ntest_reanalysis_reason (test_release.AnalysisTests.test_reanalysis_reason) ... ok\ntest_score_arithmetic (test_release.AnalysisTests.test_score_arithmetic) ... ok\ntest_total_score_cannot_be_supplied (test_release.AnalysisTests.test_total_score_cannot_be_supplied) ... ok\ntest_bad_payload_not_stored (test_release.CaptureTests.test_bad_payload_not_stored) ... ok\ntest_concurrent_collectors (test_release.CaptureTests.test_concurrent_collectors) ... ok\ntest_jsonl_projection_recovers (test_release.CaptureTests.test_jsonl_projection_recovers) ... ok\ntest_model_args_not_execution (test_release.CaptureTests.test_model_args_not_execution) ... ok\ntest_no_capture_is_not_success (test_release.CaptureTests.test_no_capture_is_not_success) ... ok\ntest_probe_does_not_certify_synthetic (test_release.CaptureTests.test_probe_does_not_certify_synthetic) ... ok\ntest_repeat_delivery_preserved (test_release.CaptureTests.test_repeat_delivery_preserved) ... ok\ntest_tamper_detected (test_release.CaptureTests.test_tamper_detected) ... ok\ntest_unicode_exact (test_release.CaptureTests.test_unicode_exact) ... ok\ntest_all_materials (test_release.InstallTests.test_all_materials) ... ok\ntest_cli_other_cwd (test_release.InstallTests.test_cli_other_cwd) ... ok\ntest_idempotent_preserve_hooks (test_release.InstallTests.test_idempotent_preserve_hooks) ... ok\ntest_model_guards_geometry (test_release.InstallTests.test_model_guards_geometry) ... ok\ntest_windows_quoting (test_release.InstallTests.test_windows_quoting) ... ok\ntest_changed_execution_rejected (test_release.WorkflowTests.test_changed_execution_rejected) ... ok\ntest_demo_not_gradebook (test_release.WorkflowTests.test_demo_not_gradebook) ... ok\ntest_end_to_end (test_release.WorkflowTests.test_end_to_end) ... ok\ntest_import_and_appeal (test_release.WorkflowTests.test_import_and_appeal) ... ok\ntest_late_submission_preserves (test_release.WorkflowTests.test_late_submission_preserves) ... ok\ntest_nan_override_rejected (test_release.WorkflowTests.test_nan_override_rejected) ... ok\ntest_no_stop_no_freeze (test_release.WorkflowTests.test_no_stop_no_freeze) ... ok\ntest_quota_preserves_work (test_release.WorkflowTests.test_quota_preserves_work) ... ok\ntest_roster_mismatch (test_release.WorkflowTests.test_roster_mismatch) ... ok\ntest_student_cannot_approve (test_release.WorkflowTests.test_student_cannot_approve) ... ok\ntest_teacher_confirmation_required (test_release.WorkflowTests.test_teacher_confirmation_required) ... ok\ntest_unlimited_attempts_best_whole_result (test_release.WorkflowTests.test_unlimited_attempts_best_whole_result) ... ok\ntest_zip_traversal (test_release.WorkflowTests.test_zip_traversal) ... ok\n\n----------------------------------------------------------------------\nRan 42 tests in 4.717s\n\nOK\n"
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+        "tools/verify_release.py"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"status\": \"passed\",\n  \"files_checked\": 103,\n  \"errors\": [],\n  \"scope\": \"file integrity only; not authorship or runtime/J0 verification\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+        "dt.py",
+        "lesson",
+        "8"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"lesson\": 8,\n  \"name\": \"Практическое занятие 8 Проектирование цехов электролитического осаждения и рафинирования из водных растворов\",\n  \"source\": \"course/sources/lesson_08.docx\",\n  \"sha256\": \"da9beacdc2edae1dbbffbdc7e50af75ecf1bd4d1669445ffef99d01aca2ba02e\",\n  \"paragraph_count\": 836,\n  \"review\": \"materials loaded; pedagogical calibration pending\",\n  \"text_extraction\": \"Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams\"\n}\n",
+      "stderr": ""
+    }
+  ],
+  "recipient_windows_verified": false
+}

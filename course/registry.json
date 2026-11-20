@@ -1,0 +1,137 @@
+[
+  {
+    "lesson": 1,
+    "name": "Практическое занятие 1 Расчёт параметров обогатительной фабрики цветной металлургии",
+    "source": "course/sources/lesson_01.docx",
+    "sha256": "f0cc7b51b9f1823fc82a28ce00895b2bdd3e08fc4c30c18bfddce27cc06fff3c",
+    "paragraph_count": 400,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 2,
+    "name": "Практическое занятие 2 Расчёт параметров плавильного цеха цветной металлургии",
+    "source": "course/sources/lesson_02.docx",
+    "sha256": "4c5a56fce0fb2b207afe1f4d2a4029c81504e99efd4c4f2f39596d1227ecbe84",
+    "paragraph_count": 413,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 3,
+    "name": "Практическое занятие 3 Расчёт параметров цеха выщелачивания",
+    "source": "course/sources/lesson_03.docx",
+    "sha256": "c4ad184de279d27849f1f76258ddfe0e8a600bc970afe63b8e56576b0bc72c94",
+    "paragraph_count": 447,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 4,
+    "name": "Практическое занятие 4 Расчёт параметров полигона кучного и скважинного выщелачивания",
+    "source": "course/sources/lesson_04.docx",
+    "sha256": "a5d07d82fdc896d1ef6e5c0b99d5ce1fb73b5dac9186c19b5cac94eb3a4008f7",
+    "paragraph_count": 458,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 5,
+    "name": "Практическое занятие 5 Расчёт параметров ионообменного сорбционного цеха",
+    "source": "course/sources/lesson_05.docx",
+    "sha256": "e64eed3255544da620c3b79d71bd830ef2df630961e08063fc9235fd1e46421b",
+    "paragraph_count": 225,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 6,
+    "name": "Практическое занятие 6 Расчёт параметров цехов экстракционного извлечения металлов",
+    "source": "course/sources/lesson_06.docx",
+    "sha256": "061aba4cf778b6ae29a993c4f84bee3be7412d39963f446f3373f8f654ef63aa",
+    "paragraph_count": 325,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 7,
+    "name": "Практическое занятие 7 Расчёт параметров хлоридной металлургии и металлотермического восстановления цветных металлов",
+    "source": "course/sources/lesson_07.docx",
+    "sha256": "cbc3206a5ee1939201f6659d85d9871aea2e318a7ed9662b9b1190a8455bb6b4",
+    "paragraph_count": 536,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 8,
+    "name": "Практическое занятие 8 Проектирование цехов электролитического осаждения и рафинирования из водных растворов",
+    "source": "course/sources/lesson_08.docx",
+    "sha256": "da9beacdc2edae1dbbffbdc7e50af75ecf1bd4d1669445ffef99d01aca2ba02e",
+    "paragraph_count": 836,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 9,
+    "name": "Практическое занятие 9 Проектирование цехов электролитического производства алюминия из расплавов глинозема",
+    "source": "course/sources/lesson_09.docx",
+    "sha256": "171aa5cd23ef38c4b7b6ea17e90eea31ad1d28254dbc73fe800dde53adaa2e05",
+    "paragraph_count": 668,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 10,
+    "name": "Практическое занятие 10 Проектирование цехов аффинажа благородных металлов",
+    "source": "course/sources/lesson_10.docx",
+    "sha256": "e1f299dbfb810820647197c9ee7c641cd9d63579157f82332beb82c8895e8663",
+    "paragraph_count": 574,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 11,
+    "name": "Практическое занятие 11 Объемно-планировочные решения и инженерная инфраструктура металлургических цехов принципы пространственной компоновки",
+    "source": "course/sources/lesson_11.docx",
+    "sha256": "e3fc6cbaf2979f33c5029cf2dbf969bdf59b55765724219845ca78586898b07d",
+    "paragraph_count": 626,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 12,
+    "name": "Практическое занятие 12 Проектирование генерального плана металлургического предприятия зонирование территории, транспортная логистика и инженерная инфраструктура",
+    "source": "course/sources/lesson_12.docx",
+    "sha256": "8827d0baaa48ac9cff2184933ebd5c089427489511ef38cc3af0bbbf03b85833",
+    "paragraph_count": 578,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 13,
+    "name": "Практическое занятие 13 Проектирование систем промышленного водоснабжения, канализации и очистных сооружений (ZLD) металлургических заводов",
+    "source": "course/sources/lesson_13.docx",
+    "sha256": "5f0a8f87d3a5fa78ef50ea0b3fc925fefa873d968dda38bc8c0cd24c3b3ca8f0",
+    "paragraph_count": 497,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 14,
+    "name": "Практическое занятие 14 Проектирование систем газоочистки и аспирации заводов цветной металлургии с узлами утилизации тепла и CO2",
+    "source": "course/sources/lesson_14.docx",
+    "sha256": "472b8e54387e89f24fc57fb9f01eb0d1d05a3b1eddf9555ba6be0853ad92cebd",
+    "paragraph_count": 479,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  {
+    "lesson": 15,
+    "name": "Практическое занятие 15 Проектирование цифровой инфраструктуры и цифровых двойников предприятий цветной металлургии",
+    "source": "course/sources/lesson_15.docx",
+    "sha256": "9200380c925360f19b42697d91e8d1768f13e524610c0af273fb9b610dfd1ff8",
+    "paragraph_count": 613,
+    "review": "materials loaded; pedagogical calibration pending",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  }
+]

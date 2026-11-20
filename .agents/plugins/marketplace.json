@@ -1,0 +1,1 @@
+{"name":"digital-trace-local-v2","interface":{"displayName":"Digital Trace local release 2"},"plugins":[{"name":"digital-trace","source":{"source":"local","path":"."}}]}

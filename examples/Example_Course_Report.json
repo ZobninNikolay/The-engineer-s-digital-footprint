@@ -1,0 +1,177 @@
+{
+  "student": "demo_student",
+  "completed": 1,
+  "partial": true,
+  "recommendations": [
+    "Пояснить, почему переход к одному ряду изменяет требуемое число ванн с 24 до 23; отдельно проверить запас производительности.",
+    "Построить геометрическую модель электродного пакета и проверить допустимость ванны 3 м при другой конфигурации электродов.",
+    "Добавить сопротивление шин, тепловые ограничения и годовую стоимость потерь; выполнить чувствительность к цене меди и электроэнергии."
+  ],
+  "rows": [
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 1,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 2,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 3,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 4,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 5,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 6,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 7,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 8,
+      "score": "88.0",
+      "result_id": "result-624fe436687a4fe89cf298ab9e7c23c5",
+      "assessment_id": "assessment-bb803d38b8f04e2197e280b2bc455fae",
+      "status": "approved",
+      "transfer_allowed": true
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 9,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 10,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 11,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 12,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 13,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 14,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 15,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    }
+  ]
+}

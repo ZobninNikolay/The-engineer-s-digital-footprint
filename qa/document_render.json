@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "rendered_documents": 6,
+  "reviewed_pages": 13,
+  "checks": [
+    "All pages rendered and visually inspected",
+    "No clipped text or overlapping table cells",
+    "Examples explicitly labelled fictional; execution results separately preserved"
+  ],
+  "files": {
+    "docs/Release_Guide.docx": "d22ed2ab1cb2d75704a372fcdba7676f559aff6296dd9327ca0a3f40e211344b",
+    "examples/Example_Analytical_Report.docx": "a7fe804f456fc2d7c0f6bb57b1a400bfa8e1c963bb69f017a64c702f1a9bc6cd",
+    "examples/Example_Course_Report.docx": "d4bb7edc9d24759622436873505b2d4e0e8fba8edb32416713be9146265bfb13",
+    "examples/Example_Student_Session.docx": "6d15379a1de762928b457f573530f2294c0f1c3b1441cab06e5ddf07b02d3d72",
+    "examples/gradebook_resolved/gradebook.docx": "86c814cb13dcfd0e514e0a366919f72e252d13d0b7438870d2192c373d1ef8b1",
+    "examples/gradebook_open_appeal/gradebook.docx": "c0cf9fcc3d2c06993857f27ce3ea6604e91f29c2c3dffbddf65f8970467a3ff2"
+  }
+}

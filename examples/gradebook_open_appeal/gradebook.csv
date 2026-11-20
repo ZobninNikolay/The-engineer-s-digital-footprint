@@ -1,0 +1,16 @@
+﻿student,name,group,lesson,score,status,transfer_allowed,assessment_id
+demo_student,Иванов Демонстрационный,DEMO,1,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,2,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,3,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,4,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,5,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,6,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,7,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,8,86.3,appeal_open,False,assessment-bb803d38b8f04e2197e280b2bc455fae
+demo_student,Иванов Демонстрационный,DEMO,9,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,10,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,11,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,12,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,13,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,14,,missing_or_pending,False,
+demo_student,Иванов Демонстрационный,DEMO,15,,missing_or_pending,False,

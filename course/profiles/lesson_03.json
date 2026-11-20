@@ -1,0 +1,9 @@
+{
+  "lesson": 3,
+  "name": "Практическое занятие 3 Расчёт параметров цеха выщелачивания",
+  "source": "course/sources/lesson_03.docx",
+  "sha256": "c4ad184de279d27849f1f76258ddfe0e8a600bc970afe63b8e56576b0bc72c94",
+  "paragraph_count": 447,
+  "review": "materials loaded; pedagogical calibration pending",
+  "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+}

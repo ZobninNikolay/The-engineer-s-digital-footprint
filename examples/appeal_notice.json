@@ -1,0 +1,25 @@
+{
+  "id": "notice-9c6dd9edff9d427cb1bc1b96813f2df8",
+  "student": "demo_student",
+  "appeal": {
+    "created_at": "2026-11-18T02:11:56.963517+00:00",
+    "id": "appeal-a886c3eaba93448a9ecdad9a31edb966",
+    "lesson": 8,
+    "reason": "Демонстрационная апелляция: прошу пересмотреть оценку критической проверки геометрии.",
+    "research_digest": "d1acef084779add16461db130af3d3655840f1c4da5b397b8aa7c7d936f451c1",
+    "status": "resolved",
+    "student": "demo_student",
+    "submission_id": "submission-1e85ab1b39fe471f8555c017ca9101cb",
+    "target_assessment_id": "assessment-bb803d38b8f04e2197e280b2bc455fae",
+    "decision": "teacher_override",
+    "decision_reason": "Учебная имитация решения преподавателя: с учётом рассмотренного объяснения итог установлен 88,0. Исходная рекомендация ИИ сохранена отдельно.",
+    "result_id": "result-624fe436687a4fe89cf298ab9e7c23c5",
+    "resolved_at": "2026-11-18T02:11:57.009293+00:00"
+  },
+  "score": "88.0",
+  "email": {
+    "to": "student@example.invalid",
+    "status": "not_sent_stub"
+  },
+  "message": "Учебная имитация решения преподавателя: с учётом рассмотренного объяснения итог установлен 88,0. Исходная рекомендация ИИ сохранена отдельно."
+}

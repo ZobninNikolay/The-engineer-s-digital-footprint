@@ -1,0 +1,2 @@
+﻿student,name,group,lesson,score,status,transfer_allowed,assessment_id
+demo_student,Иванов Демонстрационный,DEMO,8,88.0,approved,True,assessment-bb803d38b8f04e2197e280b2bc455fae

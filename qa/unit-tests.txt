@@ -1,0 +1,47 @@
+test_appeal_keeps_target_version (test_release.AdditionalRegressionTests.test_appeal_keeps_target_version) ... ok
+test_open_appeal_does_not_fall_back_to_lower_grade (test_release.AdditionalRegressionTests.test_open_appeal_does_not_fall_back_to_lower_grade) ... ok
+test_run_utf8_and_failure_are_real (test_release.AdditionalRegressionTests.test_run_utf8_and_failure_are_real) ... ok
+test_bad_digest_rejected (test_release.AnalysisTests.test_bad_digest_rejected) ... ok
+test_boolean_not_level (test_release.AnalysisTests.test_boolean_not_level) ... ok
+test_false_quote_rejected (test_release.AnalysisTests.test_false_quote_rejected) ... ok
+test_idempotent_response (test_release.AnalysisTests.test_idempotent_response) ... ok
+test_injected_bundle_rejected (test_release.AnalysisTests.test_injected_bundle_rejected) ... ok
+test_no_canned_grade (test_release.AnalysisTests.test_no_canned_grade) ... ok
+test_no_expected_labels_in_request (test_release.AnalysisTests.test_no_expected_labels_in_request) ... ok
+test_no_student_no_level (test_release.AnalysisTests.test_no_student_no_level) ... ok
+test_null_is_not_zero (test_release.AnalysisTests.test_null_is_not_zero) ... ok
+test_reanalysis_reason (test_release.AnalysisTests.test_reanalysis_reason) ... ok
+test_score_arithmetic (test_release.AnalysisTests.test_score_arithmetic) ... ok
+test_total_score_cannot_be_supplied (test_release.AnalysisTests.test_total_score_cannot_be_supplied) ... ok
+test_bad_payload_not_stored (test_release.CaptureTests.test_bad_payload_not_stored) ... ok
+test_concurrent_collectors (test_release.CaptureTests.test_concurrent_collectors) ... ok
+test_jsonl_projection_recovers (test_release.CaptureTests.test_jsonl_projection_recovers) ... ok
+test_model_args_not_execution (test_release.CaptureTests.test_model_args_not_execution) ... ok
+test_no_capture_is_not_success (test_release.CaptureTests.test_no_capture_is_not_success) ... ok
+test_probe_does_not_certify_synthetic (test_release.CaptureTests.test_probe_does_not_certify_synthetic) ... ok
+test_repeat_delivery_preserved (test_release.CaptureTests.test_repeat_delivery_preserved) ... ok
+test_tamper_detected (test_release.CaptureTests.test_tamper_detected) ... ok
+test_unicode_exact (test_release.CaptureTests.test_unicode_exact) ... ok
+test_all_materials (test_release.InstallTests.test_all_materials) ... ok
+test_cli_other_cwd (test_release.InstallTests.test_cli_other_cwd) ... ok
+test_idempotent_preserve_hooks (test_release.InstallTests.test_idempotent_preserve_hooks) ... ok
+test_model_guards_geometry (test_release.InstallTests.test_model_guards_geometry) ... ok
+test_windows_quoting (test_release.InstallTests.test_windows_quoting) ... ok
+test_changed_execution_rejected (test_release.WorkflowTests.test_changed_execution_rejected) ... ok
+test_demo_not_gradebook (test_release.WorkflowTests.test_demo_not_gradebook) ... ok
+test_end_to_end (test_release.WorkflowTests.test_end_to_end) ... ok
+test_import_and_appeal (test_release.WorkflowTests.test_import_and_appeal) ... ok
+test_late_submission_preserves (test_release.WorkflowTests.test_late_submission_preserves) ... ok
+test_nan_override_rejected (test_release.WorkflowTests.test_nan_override_rejected) ... ok
+test_no_stop_no_freeze (test_release.WorkflowTests.test_no_stop_no_freeze) ... ok
+test_quota_preserves_work (test_release.WorkflowTests.test_quota_preserves_work) ... ok
+test_roster_mismatch (test_release.WorkflowTests.test_roster_mismatch) ... ok
+test_student_cannot_approve (test_release.WorkflowTests.test_student_cannot_approve) ... ok
+test_teacher_confirmation_required (test_release.WorkflowTests.test_teacher_confirmation_required) ... ok
+test_unlimited_attempts_best_whole_result (test_release.WorkflowTests.test_unlimited_attempts_best_whole_result) ... ok
+test_zip_traversal (test_release.WorkflowTests.test_zip_traversal) ... ok
+
+----------------------------------------------------------------------
+Ran 42 tests in 4.212s
+
+OK

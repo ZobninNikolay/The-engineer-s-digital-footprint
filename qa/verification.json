@@ -1,0 +1,129 @@
+{
+  "release": "2.0.0",
+  "date": "2026-11-18",
+  "legacy_hook_archive": {
+    "events": 57,
+    "types": {
+      "SessionStart": 2,
+      "UserPromptSubmit": 3,
+      "Stop": 3,
+      "SessionEnd": 1,
+      "PreToolUse": 24,
+      "PostToolUse": 24
+    },
+    "chain_errors": [],
+    "sha256": "a059f07df7a859f0e30600bd01cc071311fab7b18d08091155f3f62f7b8abc45",
+    "source_modified": false
+  },
+  "new_release": {
+    "environment": "Linux-6.18.57-x86_64-with-glibc2.41",
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "unit_tests": {
+      "status": "passed",
+      "count": 42,
+      "log": "qa/unit-tests.txt"
+    },
+    "live_windows_installation": "not_tested",
+    "full_live_J0": "not_tested_here",
+    "semantic_example": "fictional dialogue, host model interpretation and four actual Python runs",
+    "independent_model_context": "not_established",
+    "pedagogical_calibration": "not_completed",
+    "mail": "not_sent_stub",
+    "drive_access_controls": "not_tested",
+    "external_anchor": "absent",
+    "clean_archive": {
+      "status": "passed",
+      "tests": 42,
+      "log": "qa/clean-install-tests.txt",
+      "detail": "qa/clean_install.json",
+      "platform": "Linux; not Windows recipient"
+    },
+    "document_visual_check": {
+      "status": "passed",
+      "documents": 6,
+      "pages": 13
+    }
+  },
+  "recipient01_baseline": [
+    {
+      "path": "comparison.csv",
+      "matches": true
+    },
+    {
+      "path": "comparison.png",
+      "matches": true
+    },
+    {
+      "path": "environment.json",
+      "matches": true
+    },
+    {
+      "path": "journal.jsonl",
+      "matches": true
+    },
+    {
+      "path": "receipt.json",
+      "matches": true
+    },
+    {
+      "path": "report.docx",
+      "matches": true
+    },
+    {
+      "path": "run-01/execution.json",
+      "matches": true
+    },
+    {
+      "path": "run-01/input.json",
+      "matches": true
+    },
+    {
+      "path": "run-01/model.py",
+      "matches": true
+    },
+    {
+      "path": "run-01/results.csv",
+      "matches": true
+    },
+    {
+      "path": "run-01/results.json",
+      "matches": true
+    },
+    {
+      "path": "run-01/stderr.txt",
+      "matches": true
+    },
+    {
+      "path": "run-01/stdout.txt",
+      "matches": true
+    },
+    {
+      "path": "run-02/execution.json",
+      "matches": true
+    },
+    {
+      "path": "run-02/input.json",
+      "matches": true
+    },
+    {
+      "path": "run-02/model.py",
+      "matches": true
+    },
+    {
+      "path": "run-02/results.csv",
+      "matches": true
+    },
+    {
+      "path": "run-02/results.json",
+      "matches": true
+    },
+    {
+      "path": "run-02/stderr.txt",
+      "matches": true
+    },
+    {
+      "path": "run-02/stdout.txt",
+      "matches": true
+    }
+  ]
+}

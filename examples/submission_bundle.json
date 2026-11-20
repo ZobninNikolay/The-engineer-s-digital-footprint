@@ -1,0 +1,363 @@
+{
+  "attempt": {
+    "environment": "demo",
+    "group": "DEMO",
+    "id": "attempt-b445abc3f2f6427b81045bb3f45a1195",
+    "lesson": 8,
+    "mode": "individual",
+    "name": "Иванов Демонстрационный",
+    "runs": [
+      {
+        "exit_code": 0,
+        "files": {
+          "input.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+          "model.py": "96773a2f857f8572e27a6f8dffdccecf79e575fd0b76671c4c63f2567995cc28",
+          "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stdout.txt": "449f175411a9543e7835d476e762e2df0aa6d4a5d58dcd995502a8f18cfc2da1"
+        },
+        "finished_at": "2026-11-18T02:11:56.571688+00:00",
+        "python": "3.12.14",
+        "run_id": "run-787ab6d3b41f40a3a83c2329503f8756",
+        "sandbox": "none: local Python execution",
+        "started_at": "2026-11-18T02:11:56.506907+00:00",
+        "status": "executed"
+      },
+      {
+        "exit_code": 0,
+        "files": {
+          "input.json": "94e8bde5a4fe0d65397a8763d868c5809f191922347d6e7545b06141d8adbb2c",
+          "model.py": "96773a2f857f8572e27a6f8dffdccecf79e575fd0b76671c4c63f2567995cc28",
+          "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stdout.txt": "0424295fa0b06ac9555ab9b9b61e1a10c183874cf50e200c91598e5986880a1f"
+        },
+        "finished_at": "2026-11-18T02:11:56.615948+00:00",
+        "python": "3.12.14",
+        "run_id": "run-9f2bfbe28c6a4b589064f72db2f06ae7",
+        "sandbox": "none: local Python execution",
+        "started_at": "2026-11-18T02:11:56.583670+00:00",
+        "status": "executed"
+      },
+      {
+        "exit_code": 0,
+        "files": {
+          "input.json": "4053327340d405ec3d414144dc53456e3146545dfb48c566bb34c0c71aa163d2",
+          "model.py": "96773a2f857f8572e27a6f8dffdccecf79e575fd0b76671c4c63f2567995cc28",
+          "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stdout.txt": "d4bbd84773dec3cb19901ba2b6bda147c8ae1b2d41ea18698be604ee54201ab2"
+        },
+        "finished_at": "2026-11-18T02:11:56.692941+00:00",
+        "python": "3.12.14",
+        "run_id": "run-0d04731598224d5b84c612394f76c90c",
+        "sandbox": "none: local Python execution",
+        "started_at": "2026-11-18T02:11:56.628158+00:00",
+        "status": "executed"
+      },
+      {
+        "exit_code": 0,
+        "files": {
+          "input.json": "1949e0de771f847ae0d7253ab91a4cd10133cdf5538efb39e20d914689c19090",
+          "model.py": "96773a2f857f8572e27a6f8dffdccecf79e575fd0b76671c4c63f2567995cc28",
+          "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stdout.txt": "4e775d3f5c442bb2cfeee5e6d075b99a8c8ff6a2d2b07f53ab46dfe70d37c460"
+        },
+        "finished_at": "2026-11-18T02:11:56.737137+00:00",
+        "python": "3.12.14",
+        "run_id": "run-56d4bf7ad52348669191faf75086d9d1",
+        "sandbox": "none: local Python execution",
+        "started_at": "2026-11-18T02:11:56.704827+00:00",
+        "status": "executed"
+      }
+    ],
+    "semester_start": "2026-09-01T00:00:00+05:00",
+    "sessions": [
+      {
+        "id": "fictional-commission",
+        "start_seq": 2
+      }
+    ],
+    "started_at": "2026-11-18T02:11:56.504547+00:00",
+    "status": "active",
+    "student": "demo_student",
+    "variant_note": "Seed only; task parameters must be taken from source and recorded in dialogue",
+    "variant_seed": 2137341181
+  },
+  "captured_events": [
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "0d409d89cc506b7e23a08090593cdf5f419c37757f82fc452ffc1bcba0dc7513",
+      "hook_event_name": "UserPromptSubmit",
+      "previous_digest": "ce83d2506beb1f4e2929dfb9aaecfdeb7649dda3ac6c1c22fccdf4c16e49ce54",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJVc2VyUHJvbXB0U3VibWl0IiwicHJvbXB0Ijoi0J3Rg9C20L3QviDQuNGB0YHQu9C10LTQvtCy0LDRgtGMINGG0LXRhSDRjdC70LXQutGC0YDQvtC70LjQt9CwINC90LAgMTUg0YIg0LzQtdC00Lgg0LIg0YHRg9GC0LrQuC4g0J7Qs9GA0LDQvdC40YfQtdC90LjQtSDRiNC40YDQuNC90Ysg0LfQtNCw0L3QuNGPIDEyINC8LiDQndC1INC/0YDQvtGI0YMg0L7QtNC40L0g0L7RgtCy0LXRgjog0YHRgNCw0LLQvdC40Lwg0LTQstC1INC60L7QvNC/0L7QvdC+0LLQutC4INC4INCy0YvRj9Cy0LjQvCDQvtCz0YDQsNC90LjRh9C10L3QuNGPINC80LXRgtC+0LTQuNGH0LrQuC4g0KHQvdCw0YfQsNC70LAg0LLRi9C/0L7Qu9C90Lgg0LHQsNC30L7QstGD0Y4g0LzQvtC00LXQu9GMINGBINGA0LXQsNC70YzQvdC+0Lkg0LTQu9C40L3QvtC5INGN0LvQtdC60YLRgNC+0LTQvdC+0LPQviDQv9Cw0LrQtdGC0LAuIiwic2Vzc2lvbl9pZCI6ImZpY3Rpb25hbC1jb21taXNzaW9uIiwic3ludGhldGljX2NvbW1pc3Npb25fZXhhbXBsZSI6dHJ1ZX0=",
+      "raw_payload": {
+        "hook_event_name": "UserPromptSubmit",
+        "prompt": "Нужно исследовать цех электролиза на 15 т меди в сутки. Ограничение ширины здания 12 м. Не прошу один ответ: сравним две компоновки и выявим ограничения методички. Сначала выполни базовую модель с реальной длиной электродного пакета.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "0d409d89cc506b7e23a08090593cdf5f419c37757f82fc452ffc1bcba0dc7513",
+      "received_at": "2026-11-18T02:11:56.487140+00:00",
+      "research_digest": "260dd18aa3a52841a560ee0feb4ba307281d93e6c7b8b689bbfae36da2c9659b",
+      "seq": 2,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "893221b05dec8a691f9e1b74adb6d5dcd70f0b295778186b18b419f7ef5020e5",
+      "hook_event_name": "Stop",
+      "previous_digest": "260dd18aa3a52841a560ee0feb4ba307281d93e6c7b8b689bbfae36da2c9659b",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJTdG9wIiwibGFzdF9hc3Npc3RhbnRfbWVzc2FnZSI6ItCR0LDQt9C+0LLQsNGPINC/0YDQvtCz0YDQsNC80LzQsCDQuNGB0L/QvtC70L3QtdC90LAuINCh0L7RhdGA0LDQvdGP0LXQvCDQutC+0LQsINC/0LDRgNCw0LzQtdGC0YDRiyDQuCDQstGL0YXQvtC00L3Ri9C1INC00LDQvdC90YvQtTsg0LPQtdC+0LzQtdGC0YDQuNGH0LXRgdC60LDRjyDQv9GA0L7QstC10YDQutCwINC+0YLQtNC10LvQtdC90LAg0L7RgiDQv9GA0L7QuNC30LLQvtC00LjRgtC10LvRjNC90L7RgdGC0LguIiwic2Vzc2lvbl9pZCI6ImZpY3Rpb25hbC1jb21taXNzaW9uIiwic3ludGhldGljX2NvbW1pc3Npb25fZXhhbXBsZSI6dHJ1ZX0=",
+      "raw_payload": {
+        "hook_event_name": "Stop",
+        "last_assistant_message": "Базовая программа исполнена. Сохраняем код, параметры и выходные данные; геометрическая проверка отделена от производительности.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "893221b05dec8a691f9e1b74adb6d5dcd70f0b295778186b18b419f7ef5020e5",
+      "received_at": "2026-11-18T02:11:56.573899+00:00",
+      "research_digest": "84f32caaf962907b33939bea6c985a118cc41230d2702f36b45a03da91c066c2",
+      "seq": 3,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "ecde3ff7eae6a99689fb0cf27e05a155137d082a05c7644118240cddc236d157",
+      "hook_event_name": "UserPromptSubmit",
+      "previous_digest": "84f32caaf962907b33939bea6c985a118cc41230d2702f36b45a03da91c066c2",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJVc2VyUHJvbXB0U3VibWl0IiwicHJvbXB0Ijoi0KLQtdC/0LXRgNGMINC40LfQvNC10L3QuNC8INGH0LjRgdC70L4g0YDRj9C00L7QsiDRgSDQtNCy0YPRhSDQvdCwINC+0LTQuNC9LiDQpdC+0YfRgyDQv9GA0L7QstC10YDQuNGC0Ywg0LPQuNC/0L7RgtC10LfRgywg0YfRgtC+INC+0LPRgNCw0L3QuNGH0LXQvdC40LUg0YjQuNGA0LjQvdGLINC80L7QttC90L4g0LLRi9C/0L7Qu9C90LjRgtGMINGG0LXQvdC+0Lkg0LHQvtC70YzRiNC10Lkg0LTQu9C40L3Riy4g0J3QtSDQstGL0LHQuNGA0LDQuSDQstCw0YDQuNCw0L3RgiDRgtC+0LvRjNC60L4g0L/QviDRh9C40YHQu9GDINCy0LDQvdC9LiIsInNlc3Npb25faWQiOiJmaWN0aW9uYWwtY29tbWlzc2lvbiIsInN5bnRoZXRpY19jb21taXNzaW9uX2V4YW1wbGUiOnRydWV9",
+      "raw_payload": {
+        "hook_event_name": "UserPromptSubmit",
+        "prompt": "Теперь изменим число рядов с двух на один. Хочу проверить гипотезу, что ограничение ширины можно выполнить ценой большей длины. Не выбирай вариант только по числу ванн.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "ecde3ff7eae6a99689fb0cf27e05a155137d082a05c7644118240cddc236d157",
+      "received_at": "2026-11-18T02:11:56.578582+00:00",
+      "research_digest": "c517cb6fb1964e728efe4a859d1eeec7fa32e810adf4def263e7f93ed2ccbf41",
+      "seq": 4,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "cbe552e85f8176d5cd2e1b700342732281420ec5667b911d29736b67261f39e0",
+      "hook_event_name": "Stop",
+      "previous_digest": "c517cb6fb1964e728efe4a859d1eeec7fa32e810adf4def263e7f93ed2ccbf41",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJTdG9wIiwibGFzdF9hc3Npc3RhbnRfbWVzc2FnZSI6ItCS0YvQv9C+0LvQvdC10L0g0LLRgtC+0YDQvtC5INC30LDQv9GD0YHQuiDRgSDQvtC00L3QuNC8INGA0Y/QtNC+0LwuINCh0YDQsNCy0L3QuNCy0LDQtdC8INGI0LjRgNC40L3Rgywg0L/Qu9C+0YnQsNC00Ywg0Lgg0LrRgNCw0YLQvdC+0YHRgtGMINGH0LjRgdC70LAg0LLQsNC90L0g0YfQuNGB0LvRgyDRgNGP0LTQvtCyLiIsInNlc3Npb25faWQiOiJmaWN0aW9uYWwtY29tbWlzc2lvbiIsInN5bnRoZXRpY19jb21taXNzaW9uX2V4YW1wbGUiOnRydWV9",
+      "raw_payload": {
+        "hook_event_name": "Stop",
+        "last_assistant_message": "Выполнен второй запуск с одним рядом. Сравниваем ширину, площадь и кратность числа ванн числу рядов.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "cbe552e85f8176d5cd2e1b700342732281420ec5667b911d29736b67261f39e0",
+      "received_at": "2026-11-18T02:11:56.618308+00:00",
+      "research_digest": "d7bb2f608808e2c2955475a0d7fd211ea46ed998cbf973a6f1201b1f6c54ccdb",
+      "seq": 5,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "baa5c6f12f55a7bb3a822edd18f9b47a9c6c66b4fb64700540d436f3d37a6376",
+      "hook_event_name": "UserPromptSubmit",
+      "previous_digest": "d7bb2f608808e2c2955475a0d7fd211ea46ed998cbf973a6f1201b1f6c54ccdb",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJVc2VyUHJvbXB0U3VibWl0IiwicHJvbXB0Ijoi0JIg0LzQtdGC0L7QtNC40YfQutC1INCy0YHRgtGA0LXRh9Cw0LXRgtGB0Y8g0LTQu9C40L3QsCDQstCw0L3QvdGLIDMg0LwuINCe0L3QsCDQstGL0LPQu9GP0LTQuNGCINC90LXRgdC+0LLQvNC10YHRgtC40LzQvtC5INGBINC60L7Qu9C40YfQtdGB0YLQstC+0Lwg0Y3Qu9C10LrRgtGA0L7QtNC+0LIuINCU0LDQstCw0Lkg0L/RgNC+0LLQtdGA0LjQvCDRjdGC0L7RgiDQstCw0YDQuNCw0L3RgiDQvtGC0LTQtdC70YzQvdC+INC4INGD0LzQtdC90YzRiNC40Lwg0YLQtdC/0LvQvtC/0L7RgtC10YDQuCDQtNC+IDcwMDAg0JLRgi4g0JXRgdC70Lgg0YLQtdC/0LvQvtC+0YLQtNCw0YfQsCDQvNC10L3Rj9C10YIg0LfQvdCw0LosINC90YPQu9C10LLQvtC5INGA0LDRgdGF0L7QtCDQvdCw0LPRgNC10LLQsCDQvdC1INC+0LfQvdCw0YfQsNC10YIg0L7RgtGB0YPRgtGB0YLQstC40LUg0L7RhdC70LDQttC00LXQvdC40Y8uIiwic2Vzc2lvbl9pZCI6ImZpY3Rpb25hbC1jb21taXNzaW9uIiwic3ludGhldGljX2NvbW1pc3Npb25fZXhhbXBsZSI6dHJ1ZX0=",
+      "raw_payload": {
+        "hook_event_name": "UserPromptSubmit",
+        "prompt": "В методичке встречается длина ванны 3 м. Она выглядит несовместимой с количеством электродов. Давай проверим этот вариант отдельно и уменьшим теплопотери до 7000 Вт. Если теплоотдача меняет знак, нулевой расход нагрева не означает отсутствие охлаждения.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "baa5c6f12f55a7bb3a822edd18f9b47a9c6c66b4fb64700540d436f3d37a6376",
+      "received_at": "2026-11-18T02:11:56.622953+00:00",
+      "research_digest": "1ba30199d4145b47617f502835bab17a319a87e71452ce09f6c7a91f63a8c7fb",
+      "seq": 6,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "0da6bb78f8840d39ae67302417cbda01b918455508b071d7ba78d2eb68924f95",
+      "hook_event_name": "Stop",
+      "previous_digest": "1ba30199d4145b47617f502835bab17a319a87e71452ce09f6c7a91f63a8c7fb",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJTdG9wIiwibGFzdF9hc3Npc3RhbnRfbWVzc2FnZSI6ItCi0YDQtdGC0LjQuSDQt9Cw0L/Rg9GB0Log0L/QvtC60LDQt9GL0LLQsNC10YIg0L3QtdGB0L7QstC80LXRgdGC0LjQvNC+0YHRgtGMINGD0LrQvtGA0L7Rh9C10L3QvdC+0Lkg0LLQsNC90L3RiyDRgSDRjdC70LXQutGC0YDQvtC00L3Ri9C8INC/0LDQutC10YLQvtC8INC4INC40LfQsdGL0YLQvtC6INC00LbQvtGD0LvQtdCy0LAg0YLQtdC/0LvQsC4g0KLQsNC60L7QuSDQstCw0YDQuNCw0L3RgiDQvdC10LvRjNC30Y8g0L/RgNC40L3QuNC80LDRgtGMINC60LDQuiDQs9C+0YLQvtCy0L7QtSDQv9GA0L7QtdC60YLQvdC+0LUg0YDQtdGI0LXQvdC40LUuIiwic2Vzc2lvbl9pZCI6ImZpY3Rpb25hbC1jb21taXNzaW9uIiwic3ludGhldGljX2NvbW1pc3Npb25fZXhhbXBsZSI6dHJ1ZX0=",
+      "raw_payload": {
+        "hook_event_name": "Stop",
+        "last_assistant_message": "Третий запуск показывает несовместимость укороченной ванны с электродным пакетом и избыток джоулева тепла. Такой вариант нельзя принимать как готовое проектное решение.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "0da6bb78f8840d39ae67302417cbda01b918455508b071d7ba78d2eb68924f95",
+      "received_at": "2026-11-18T02:11:56.695522+00:00",
+      "research_digest": "cfc71f27e6c0e4c849c94ac638e4f9233a14f797524bf703937e796352b69576",
+      "seq": 7,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "5d395e86d71e9fbfbc2b3c68f02ec0513c041a9d26c545c4363a8699cdf0f728",
+      "hook_event_name": "UserPromptSubmit",
+      "previous_digest": "cfc71f27e6c0e4c849c94ac638e4f9233a14f797524bf703937e796352b69576",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJVc2VyUHJvbXB0U3VibWl0IiwicHJvbXB0Ijoi0JTQu9GPINC+0LTQvdC+0YDRj9C00L3QvtCz0L4g0LLQsNGA0LjQsNC90YLQsCDQv9C+0LTQvdC40LzQtdC8INC/0LvQvtGC0L3QvtGB0YLRjCDRgtC+0LrQsCDQsiDRiNC40L3QsNGFINC00L4gMSw1INCQL9C80LzCsi4g0J/RgNC+0LLQtdGA0LjQvCDRjdC60L7QvdC+0LzQuNGOINC80LXQtNC4LiDQndC+INGD0LzQtdC90YzRiNC10L3QuNC1INC80LDRgdGB0Ysg0LXRidGRINC90LUg0LTQvtC60LDQt9GL0LLQsNC10YIg0Y3QutC+0L3QvtC80LjRh9C10YHQutC40Lkg0L7Qv9GC0LjQvNGD0Lw6INC90LDQtNC+INGD0YfQtdGB0YLRjCDRgdC+0L/RgNC+0YLQuNCy0LvQtdC90LjQtSwg0L3QsNCz0YDQtdCyINC4INGB0YLQvtC40LzQvtGB0YLRjCDQv9C+0YLQtdGA0YwuIiwic2Vzc2lvbl9pZCI6ImZpY3Rpb25hbC1jb21taXNzaW9uIiwic3ludGhldGljX2NvbW1pc3Npb25fZXhhbXBsZSI6dHJ1ZX0=",
+      "raw_payload": {
+        "hook_event_name": "UserPromptSubmit",
+        "prompt": "Для однорядного варианта поднимем плотность тока в шинах до 1,5 А/мм². Проверим экономию меди. Но уменьшение массы ещё не доказывает экономический оптимум: надо учесть сопротивление, нагрев и стоимость потерь.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "5d395e86d71e9fbfbc2b3c68f02ec0513c041a9d26c545c4363a8699cdf0f728",
+      "received_at": "2026-11-18T02:11:56.699432+00:00",
+      "research_digest": "ee9339914b15f3e8bac18bc92386ee5a26b3b8d32aecdcd36b0012ccde69b288",
+      "seq": 8,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "655c25b5b37ffacc569c998fc22f99e8eeba154bea13d51c746069851554e79e",
+      "hook_event_name": "Stop",
+      "previous_digest": "ee9339914b15f3e8bac18bc92386ee5a26b3b8d32aecdcd36b0012ccde69b288",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJTdG9wIiwibGFzdF9hc3Npc3RhbnRfbWVzc2FnZSI6ItCn0LXRgtCy0ZHRgNGC0YvQuSDQt9Cw0L/Rg9GB0Log0L/QvtC60LDQt9GL0LLQsNC10YIg0YPQvNC10L3RjNGI0LXQvdC40LUg0YDQsNGB0YfRkdGC0L3QvtC5INC80LDRgdGB0Ysg0YjQuNC9LiDQrdC70LXQutGC0YDQuNGH0LXRgdC60L7QtSDRgdC+0L/RgNC+0YLQuNCy0LvQtdC90LjQtSDQuCDRgtC10LzQv9C10YDQsNGC0YPRgNC90YvQuSDRgNC10LbQuNC8INCyINGC0LXQutGD0YnQtdC5INC80L7QtNC10LvQuCDQtdGJ0ZEg0L3QtSDQstC10YDQuNGE0LjRhtC40YDQvtCy0LDQvdGLLiIsInNlc3Npb25faWQiOiJmaWN0aW9uYWwtY29tbWlzc2lvbiIsInN5bnRoZXRpY19jb21taXNzaW9uX2V4YW1wbGUiOnRydWV9",
+      "raw_payload": {
+        "hook_event_name": "Stop",
+        "last_assistant_message": "Четвёртый запуск показывает уменьшение расчётной массы шин. Электрическое сопротивление и температурный режим в текущей модели ещё не верифицированы.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "655c25b5b37ffacc569c998fc22f99e8eeba154bea13d51c746069851554e79e",
+      "received_at": "2026-11-18T02:11:56.741617+00:00",
+      "research_digest": "048fd0fc7872d580dcf7057b49ab2c3783e716949f951553f71895fa37844f61",
+      "seq": 9,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "0c8de3453fc28ae8f1e3e73880d4e5a598f70920b13fed559d413113a4c47321",
+      "hook_event_name": "UserPromptSubmit",
+      "previous_digest": "048fd0fc7872d580dcf7057b49ab2c3783e716949f951553f71895fa37844f61",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJVc2VyUHJvbXB0U3VibWl0IiwicHJvbXB0Ijoi0JzQvtC5INCy0YvQstC+0LQ6INC+0LTQuNC9INGA0Y/QtCDQstC/0LjRgdGL0LLQsNC10YLRgdGPINCyIDEyINC8LCDQvdC+INC/0LvQvtGJ0LDQtNGMINGD0LLQtdC70LjRh9C40LvQsNGB0YwuINCj0LrQvtGA0L7Rh9C10L3QvdGD0Y4g0LLQsNC90L3RgyAzINC8INC+0YLQutC70L7QvdGP0Y4g0LTQviDQv9C10YDQtdGB0LzQvtGC0YDQsCDRjdC70LXQutGC0YDQvtC00L3QvtCz0L4g0L/QsNC60LXRgtCwLiDQktGL0LHQvtGAINGI0LjQvSDQv9C+0LrQsCDQv9GA0LXQtNCy0LDRgNC40YLQtdC70YzQvdGL0Lk6INC90YPQttC90L4g0LTQvtCx0LDQstC40YLRjCDRgdC+0L/RgNC+0YLQuNCy0LvQtdC90LjQtSDQuCDQs9C+0LTQvtCy0YvQtSDQv9C+0YLQtdGA0LgsINC30LDRgtC10Lwg0L/RgNC+0LLQtdGB0YLQuCDRh9GD0LLRgdGC0LLQuNGC0LXQu9GM0L3QvtGB0YLRjCDQuiDRhtC10L3QtSDQvNC10LTQuCDQuCDRjdC70LXQutGC0YDQvtGN0L3QtdGA0LPQuNC4LiDQn9C+INGN0YLQvtC5INC80L7QtNC10LvQuCDQvdC1INC+0LHRitGP0LLQu9GP0Y4g0L/RgNC+0LzRi9GI0LvQtdC90L3Ri9C5INC/0YDQvtC10LrRgiDQv9GA0L7QstC10YDQtdC90L3Ri9C8LiIsInNlc3Npb25faWQiOiJmaWN0aW9uYWwtY29tbWlzc2lvbiIsInN5bnRoZXRpY19jb21taXNzaW9uX2V4YW1wbGUiOnRydWV9",
+      "raw_payload": {
+        "hook_event_name": "UserPromptSubmit",
+        "prompt": "Мой вывод: один ряд вписывается в 12 м, но площадь увеличилась. Укороченную ванну 3 м отклоняю до пересмотра электродного пакета. Выбор шин пока предварительный: нужно добавить сопротивление и годовые потери, затем провести чувствительность к цене меди и электроэнергии. По этой модели не объявляю промышленный проект проверенным.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "0c8de3453fc28ae8f1e3e73880d4e5a598f70920b13fed559d413113a4c47321",
+      "received_at": "2026-11-18T02:11:56.745894+00:00",
+      "research_digest": "f56d473fc4d83fa53c112b8375f4ab6dc083c6e396e240aaf9919def6ac6628b",
+      "seq": 10,
+      "session_id": "fictional-commission"
+    },
+    {
+      "duplicate_of_seq": null,
+      "fingerprint": "bb62fae7e07e32930a86ba825e75c7850b27c16432056d6cbd1b1efc6c41f3d5",
+      "hook_event_name": "Stop",
+      "previous_digest": "f56d473fc4d83fa53c112b8375f4ab6dc083c6e396e240aaf9919def6ac6628b",
+      "raw_input_base64": "eyJob29rX2V2ZW50X25hbWUiOiJTdG9wIiwibGFzdF9hc3Npc3RhbnRfbWVzc2FnZSI6ItCY0YHRgdC70LXQtNC+0LLQsNGC0LXQu9GM0YHQutC40Lkg0YbQuNC60Lsg0LfQsNCy0LXRgNGI0ZHQvS4g0JzQvtC00LXQu9GMINC40LzQtdC10YIg0Y/QstC90YvQtSDQs9GA0LDQvdC40YbRiyDQv9GA0LjQvNC10L3QuNC80L7RgdGC0LgsINCwINC00LDQu9GM0L3QtdC50YjQsNGPINGA0LDQsdC+0YLQsCDRgdGE0L7RgNC80YPQu9C40YDQvtCy0LDQvdCwINC/0L4g0YDQtdC30YPQu9GM0YLQsNGC0LDQvCDRjdC60YHQv9C10YDQuNC80LXQvdGC0L7Qsi4iLCJzZXNzaW9uX2lkIjoiZmljdGlvbmFsLWNvbW1pc3Npb24iLCJzeW50aGV0aWNfY29tbWlzc2lvbl9leGFtcGxlIjp0cnVlfQ==",
+      "raw_payload": {
+        "hook_event_name": "Stop",
+        "last_assistant_message": "Исследовательский цикл завершён. Модель имеет явные границы применимости, а дальнейшая работа сформулирована по результатам экспериментов.",
+        "session_id": "fictional-commission",
+        "synthetic_commission_example": true
+      },
+      "raw_sha256": "bb62fae7e07e32930a86ba825e75c7850b27c16432056d6cbd1b1efc6c41f3d5",
+      "received_at": "2026-11-18T02:11:56.750478+00:00",
+      "research_digest": "cc8ccd560db9be365b6a3c9d7489c610181a0a2eca353a4c3c98a59cd60a153e",
+      "seq": 11,
+      "session_id": "fictional-commission"
+    }
+  ],
+  "coverage": {
+    "after_last_stop": "excluded; current confirmation turn is not part of research slice",
+    "external_anchor": false,
+    "gaps": [],
+    "identity": "local declared; not SSO",
+    "intermediate_assistant_messages": "not guaranteed by Stop hook"
+  },
+  "frozen_at": "2026-11-18T02:11:56.759091+00:00",
+  "lesson": {
+    "lesson": 8,
+    "name": "Практическое занятие 8 Проектирование цехов электролитического осаждения и рафинирования из водных растворов",
+    "paragraph_count": 836,
+    "review": "materials loaded; pedagogical calibration pending",
+    "sha256": "da9beacdc2edae1dbbffbdc7e50af75ecf1bd4d1669445ffef99d01aca2ba02e",
+    "source": "course/sources/lesson_08.docx",
+    "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+  },
+  "research_digest": "d1acef084779add16461db130af3d3655840f1c4da5b397b8aa7c7d936f451c1",
+  "runs": [
+    {
+      "execution": {
+        "exit_code": 0,
+        "files": {
+          "input.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+          "model.py": "96773a2f857f8572e27a6f8dffdccecf79e575fd0b76671c4c63f2567995cc28",
+          "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stdout.txt": "449f175411a9543e7835d476e762e2df0aa6d4a5d58dcd995502a8f18cfc2da1"
+        },
+        "finished_at": "2026-11-18T02:11:56.571688+00:00",
+        "python": "3.12.14",
+        "run_id": "run-787ab6d3b41f40a3a83c2329503f8756",
+        "sandbox": "none: local Python execution",
+        "started_at": "2026-11-18T02:11:56.506907+00:00",
+        "status": "executed"
+      },
+      "stderr": "",
+      "stdout": "{\n  \"run_id\": \"research\",\n  \"code_version\": \"copper_model_v2.0\",\n  \"geometry_feasible\": true,\n  \"warnings\": [],\n  \"executed_at_utc\": \"2026-11-18T02:11:56.541422+00:00\",\n  \"status\": \"executed\",\n  \"environment\": {\n    \"python_version\": \"3.12.14\",\n    \"platform\": \"linux\"\n  },\n  \"inputs\": {\n    \"target_productivity_kg_day\": 15000.0,\n    \"current_per_bath_A\": 25000.0,\n    \"current_density_A_m2\": 400.0,\n    \"current_efficiency\": 0.95,\n    \"cycle_time_hours\": 24.0,\n    \"u_bath_V\": 0.35,\n    \"j_busbar_econ_A_mm2\": 1.25,\n    \"rows_count\": 2,\n    \"heat_loss_per_bath_W\": 11500.0,\n    \"use_shortened_bath_3m\": false\n  },\n  \"outputs\": {\n    \"m_bath_day_kg\": 675.67,\n    \"n_baths_exact\": 22.2,\n    \"n_baths_fact\": 24,\n    \"baths_per_row\": 12,\n    \"cathodes_per_bath\": 32,\n    \"actual_current_density_A_m2\": 390.625,\n    \"l_bath_calc_m\": 5.44,\n    \"l_bath_used_m\": 5.44,\n    \"building_length_fact_m\": 24.0,\n    \"building_width_fact_m\": 18.0,\n    \"area_fact_m2\": 432.0,\n    \"q_joule_W\": 8750.0,\n    \"q_circ_needed_W\": 2750.0,\n    \"thermal_mode\": \"heating_required\",\n    \"v_circ_total_m3_h\": 11.65,\n    \"u_series_V\": 9.24,\n    \"s_busbar_mm2\": 20000.0,\n    \"busbar_strips_100x10\": 20,\n    \"copper_busbar_mass_kg\": 10752.0,\n    \"p_dc_kw\": 231.0,\n    \"p_trans_kw\": 294.89,\n    \"daily_dc_energy_kwh\": 5544.0,\n    \"v_vent_m3_h\": 43545.6\n  }\n}\n"
+    },
+    {
+      "execution": {
+        "exit_code": 0,
+        "files": {
+          "input.json": "94e8bde5a4fe0d65397a8763d868c5809f191922347d6e7545b06141d8adbb2c",
+          "model.py": "96773a2f857f8572e27a6f8dffdccecf79e575fd0b76671c4c63f2567995cc28",
+          "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stdout.txt": "0424295fa0b06ac9555ab9b9b61e1a10c183874cf50e200c91598e5986880a1f"
+        },
+        "finished_at": "2026-11-18T02:11:56.615948+00:00",
+        "python": "3.12.14",
+        "run_id": "run-9f2bfbe28c6a4b589064f72db2f06ae7",
+        "sandbox": "none: local Python execution",
+        "started_at": "2026-11-18T02:11:56.583670+00:00",
+        "status": "executed"
+      },
+      "stderr": "",
+      "stdout": "{\n  \"run_id\": \"research\",\n  \"code_version\": \"copper_model_v2.0\",\n  \"geometry_feasible\": true,\n  \"warnings\": [],\n  \"executed_at_utc\": \"2026-11-18T02:11:56.609375+00:00\",\n  \"status\": \"executed\",\n  \"environment\": {\n    \"python_version\": \"3.12.14\",\n    \"platform\": \"linux\"\n  },\n  \"inputs\": {\n    \"target_productivity_kg_day\": 15000.0,\n    \"current_per_bath_A\": 25000.0,\n    \"current_density_A_m2\": 400.0,\n    \"current_efficiency\": 0.95,\n    \"cycle_time_hours\": 24.0,\n    \"u_bath_V\": 0.35,\n    \"j_busbar_econ_A_mm2\": 1.25,\n    \"rows_count\": 1,\n    \"heat_loss_per_bath_W\": 11500.0,\n    \"use_shortened_bath_3m\": false\n  },\n  \"outputs\": {\n    \"m_bath_day_kg\": 675.67,\n    \"n_baths_exact\": 22.2,\n    \"n_baths_fact\": 23,\n    \"baths_per_row\": 23,\n    \"cathodes_per_bath\": 32,\n    \"actual_current_density_A_m2\": 390.625,\n    \"l_bath_calc_m\": 5.44,\n    \"l_bath_used_m\": 5.44,\n    \"building_length_fact_m\": 42.0,\n    \"building_width_fact_m\": 12.0,\n    \"area_fact_m2\": 504.0,\n    \"q_joule_W\": 8750.0,\n    \"q_circ_needed_W\": 2750.0,\n    \"thermal_mode\": \"heating_required\",\n    \"v_circ_total_m3_h\": 11.16,\n    \"u_series_V\": 8.86,\n    \"s_busbar_mm2\": 20000.0,\n    \"busbar_strips_100x10\": 20,\n    \"copper_busbar_mass_kg\": 10752.0,\n    \"p_dc_kw\": 221.38,\n    \"p_trans_kw\": 282.61,\n    \"daily_dc_energy_kwh\": 5313.0,\n    \"v_vent_m3_h\": 50803.2\n  }\n}\n"
+    },
+    {
+      "execution": {
+        "exit_code": 0,
+        "files": {
+          "input.json": "4053327340d405ec3d414144dc53456e3146545dfb48c566bb34c0c71aa163d2",
+          "model.py": "96773a2f857f8572e27a6f8dffdccecf79e575fd0b76671c4c63f2567995cc28",
+          "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stdout.txt": "d4bbd84773dec3cb19901ba2b6bda147c8ae1b2d41ea18698be604ee54201ab2"
+        },
+        "finished_at": "2026-11-18T02:11:56.692941+00:00",
+        "python": "3.12.14",
+        "run_id": "run-0d04731598224d5b84c612394f76c90c",
+        "sandbox": "none: local Python execution",
+        "started_at": "2026-11-18T02:11:56.628158+00:00",
+        "status": "executed"
+      },
+      "stderr": "",
+      "stdout": "{\n  \"run_id\": \"research\",\n  \"code_version\": \"copper_model_v2.0\",\n  \"geometry_feasible\": false,\n  \"warnings\": [\n    \"Selected bath shorter than electrode package\"\n  ],\n  \"executed_at_utc\": \"2026-11-18T02:11:56.676750+00:00\",\n  \"status\": \"executed\",\n  \"environment\": {\n    \"python_version\": \"3.12.14\",\n    \"platform\": \"linux\"\n  },\n  \"inputs\": {\n    \"target_productivity_kg_day\": 15000.0,\n    \"current_per_bath_A\": 25000.0,\n    \"current_density_A_m2\": 400.0,\n    \"current_efficiency\": 0.95,\n    \"cycle_time_hours\": 24.0,\n    \"u_bath_V\": 0.35,\n    \"j_busbar_econ_A_mm2\": 1.25,\n    \"rows_count\": 1,\n    \"heat_loss_per_bath_W\": 7000,\n    \"use_shortened_bath_3m\": true\n  },\n  \"outputs\": {\n    \"m_bath_day_kg\": 675.67,\n    \"n_baths_exact\": 22.2,\n    \"n_baths_fact\": 23,\n    \"baths_per_row\": 23,\n    \"cathodes_per_bath\": 32,\n    \"actual_current_density_A_m2\": 390.625,\n    \"l_bath_calc_m\": 5.44,\n    \"l_bath_used_m\": 3.0,\n    \"building_length_fact_m\": 42.0,\n    \"building_width_fact_m\": 12.0,\n    \"area_fact_m2\": 504.0,\n    \"q_joule_W\": 8750.0,\n    \"q_circ_needed_W\": -1750.0,\n    \"thermal_mode\": \"cooling_or_excess_joule_heat\",\n    \"v_circ_total_m3_h\": 0.0,\n    \"u_series_V\": 8.86,\n    \"s_busbar_mm2\": 20000.0,\n    \"busbar_strips_100x10\": 20,\n    \"copper_busbar_mass_kg\": 10752.0,\n    \"p_dc_kw\": 221.38,\n    \"p_trans_kw\": 282.61,\n    \"daily_dc_energy_kwh\": 5313.0,\n    \"v_vent_m3_h\": 50803.2\n  }\n}\n"
+    },
+    {
+      "execution": {
+        "exit_code": 0,
+        "files": {
+          "input.json": "1949e0de771f847ae0d7253ab91a4cd10133cdf5538efb39e20d914689c19090",
+          "model.py": "96773a2f857f8572e27a6f8dffdccecf79e575fd0b76671c4c63f2567995cc28",
+          "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stdout.txt": "4e775d3f5c442bb2cfeee5e6d075b99a8c8ff6a2d2b07f53ab46dfe70d37c460"
+        },
+        "finished_at": "2026-11-18T02:11:56.737137+00:00",
+        "python": "3.12.14",
+        "run_id": "run-56d4bf7ad52348669191faf75086d9d1",
+        "sandbox": "none: local Python execution",
+        "started_at": "2026-11-18T02:11:56.704827+00:00",
+        "status": "executed"
+      },
+      "stderr": "",
+      "stdout": "{\n  \"run_id\": \"research\",\n  \"code_version\": \"copper_model_v2.0\",\n  \"geometry_feasible\": true,\n  \"warnings\": [],\n  \"executed_at_utc\": \"2026-11-18T02:11:56.731861+00:00\",\n  \"status\": \"executed\",\n  \"environment\": {\n    \"python_version\": \"3.12.14\",\n    \"platform\": \"linux\"\n  },\n  \"inputs\": {\n    \"target_productivity_kg_day\": 15000.0,\n    \"current_per_bath_A\": 25000.0,\n    \"current_density_A_m2\": 400.0,\n    \"current_efficiency\": 0.95,\n    \"cycle_time_hours\": 24.0,\n    \"u_bath_V\": 0.35,\n    \"j_busbar_econ_A_mm2\": 1.5,\n    \"rows_count\": 1,\n    \"heat_loss_per_bath_W\": 11500.0,\n    \"use_shortened_bath_3m\": false\n  },\n  \"outputs\": {\n    \"m_bath_day_kg\": 675.67,\n    \"n_baths_exact\": 22.2,\n    \"n_baths_fact\": 23,\n    \"baths_per_row\": 23,\n    \"cathodes_per_bath\": 32,\n    \"actual_current_density_A_m2\": 390.625,\n    \"l_bath_calc_m\": 5.44,\n    \"l_bath_used_m\": 5.44,\n    \"building_length_fact_m\": 42.0,\n    \"building_width_fact_m\": 12.0,\n    \"area_fact_m2\": 504.0,\n    \"q_joule_W\": 8750.0,\n    \"q_circ_needed_W\": 2750.0,\n    \"thermal_mode\": \"heating_required\",\n    \"v_circ_total_m3_h\": 11.16,\n    \"u_series_V\": 8.86,\n    \"s_busbar_mm2\": 16666.7,\n    \"busbar_strips_100x10\": 17,\n    \"copper_busbar_mass_kg\": 8960.0,\n    \"p_dc_kw\": 221.38,\n    \"p_trans_kw\": 282.61,\n    \"daily_dc_energy_kwh\": 5313.0,\n    \"v_vent_m3_h\": 50803.2\n  }\n}\n"
+    }
+  ],
+  "version": "2.0.0"
+}

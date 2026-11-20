@@ -1,0 +1,9 @@
+{
+  "lesson": 4,
+  "name": "Практическое занятие 4 Расчёт параметров полигона кучного и скважинного выщелачивания",
+  "source": "course/sources/lesson_04.docx",
+  "sha256": "a5d07d82fdc896d1ef6e5c0b99d5ce1fb73b5dac9186c19b5cac94eb3a4008f7",
+  "paragraph_count": 458,
+  "review": "materials loaded; pedagogical calibration pending",
+  "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+}

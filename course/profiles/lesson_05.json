@@ -1,0 +1,9 @@
+{
+  "lesson": 5,
+  "name": "Практическое занятие 5 Расчёт параметров ионообменного сорбционного цеха",
+  "source": "course/sources/lesson_05.docx",
+  "sha256": "e64eed3255544da620c3b79d71bd830ef2df630961e08063fc9235fd1e46421b",
+  "paragraph_count": 225,
+  "review": "materials loaded; pedagogical calibration pending",
+  "text_extraction": "Paragraph text and linearized Office Math; inspect original for layout, formulas and diagrams"
+}

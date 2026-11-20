@@ -1,0 +1,172 @@
+{
+  "generated_at": "2026-11-18T02:11:56.964407+00:00",
+  "environment": "demo",
+  "selection": "best whole active teacher-confirmed result per lesson; any open appeal blocks this lesson",
+  "rows": [
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 1,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 2,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 3,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 4,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 5,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 6,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 7,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 8,
+      "score": "86.3",
+      "result_id": "result-a8784a01dc084ee4a8a32ddc7f767eeb",
+      "assessment_id": "assessment-bb803d38b8f04e2197e280b2bc455fae",
+      "status": "appeal_open",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 9,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 10,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 11,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 12,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 13,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 14,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    },
+    {
+      "student": "demo_student",
+      "name": "Иванов Демонстрационный",
+      "group": "DEMO",
+      "lesson": 15,
+      "score": null,
+      "result_id": null,
+      "assessment_id": null,
+      "status": "missing_or_pending",
+      "transfer_allowed": false
+    }
+  ]
+}
